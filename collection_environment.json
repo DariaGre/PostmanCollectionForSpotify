@@ -1,0 +1,79 @@
+{
+	"id": "cce70597-1945-49e9-b67a-1fcfad4d6973",
+	"name": "Spotify",
+	"values": [
+		{
+			"key": "basic_auth",
+			"value": "Basic MGE0MGQwOGUxODk3NDJiNGEyNjE2ZDdiMTkwODhiMWM6NDU0MDI0NmRlNDIwNDhmZTkwN2JiYTJhODA3NzFhMTU=",
+			"enabled": true
+		},
+		{
+			"key": "code",
+			"value": "AQBePSgb8pxK9Z1Kf1FJE4xO6LjwbwWGyokQIR7wpVkPqDqWBcMPYx3-Xgi3tFuAu4e5QgrnEsVj8a-7bkUhuEGDYpcLuIHO67a7DKgM757KvJvqo5O-2_IccUWKALBC1_yARRJ6G1mxO3eZcp0-0e_1vy10wtFPwg4eSTmc1TjWgUD9BSyTKEQUWKJrcD2kK3cO4WQV0K3jInNOMC7CnaD8ii1FtDMiSASPQ9dL5_f2BKxYm8szXlAfECFko42QOEHSFthnCl5DH046AqfoRYF4KmdizBZG_Uh7bhAT7QXMUKZzlwWIMhdmIH7XWktyV3PWz4Ubytk6I-AKbWlO4i2qJSKCOw9kT6deAkiYCIr0kMjH5gmc9KQ2d9aPk05J5JrtfQM3QovygzA67xi13EPAxq5000_UxUOju0TFz57Hh31K5z4Q05ldlK2vsxm6VFDCFt4tqRJbDR2bmyXanBoW6FP2xKRBGUrolnhmFwBY5RJZkK6Acb7UvNhyT3aIfq9fAIjFkiUhNJpT7nyQHPpH7l77eEbK4Doz0JSEOrIM757F73xHIVcHC8Bh02qioQgDKAN0WP2GlMDjCGJztAIv26sV20fW0NuCBygUjTODGNymI_SMcQDRH7CPnDOebtXJ3Ag9SRfiTPrH2r8YnRu3zMG0O80cgcxXZjMDPx0DciGNxE8Pb2yqB7vPf0ohHpuSa7W6GQ",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "BQD-vRigHGzcnvuuhtN2Y-krHnopNsGZS1Wqo-TA4yn09ivkzCsfpWUOJi2uK3YWypqHcyb0NfFkejB4WK1zT8c6MUhrO-u64cQlcULTb7pxC-cRYkobjqXsrEV2CBPNIt-XI3EONSgWcCtqOhVcyP0kPLJvjxsZPxK8-bIWajt_DwT1WQ",
+			"enabled": true
+		},
+		{
+			"key": "refresh_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Client_ID",
+			"value": "0a40d08e189742b4a2616d7b19088b1c",
+			"enabled": true
+		},
+		{
+			"key": "Client_secret",
+			"value": "4540246de42048fe907bba2a80771a15",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "redirect_uri",
+			"value": "https://example.com/callback",
+			"enabled": true
+		},
+		{
+			"key": "playlist_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "playlist_name",
+			"value": "Research",
+			"enabled": true
+		},
+		{
+			"key": "uri_track",
+			"value": "spotify:track:5yHRupjhJzuqxW5WjGTRr7",
+			"enabled": true
+		},
+		{
+			"key": "uris_tracks",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "playlist_version",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "uri_remove",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-01-19T18:36:12.248Z",
+	"_postman_exported_using": "Postman/7.36.1"
+}
